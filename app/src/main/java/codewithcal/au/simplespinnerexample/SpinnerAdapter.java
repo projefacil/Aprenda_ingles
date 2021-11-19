@@ -36,6 +36,7 @@ public class SpinnerAdapter extends ArrayAdapter<User>
         imageView.setImageResource(user.getImage());
         return rowView;
     }
+    // coment
 
 
     @Override
